@@ -31,8 +31,5 @@ Nothing easier.
 Move your existing java code to `/src/main/java`, and any resources i.e. shaders, fonts etc. to `/src/main/resources`.
 If you added new libraries, make sure to add them to pom.xml, and you're set :D
 
-### Support
-If you have any questions about this repo, let me know on <a href="https://marcloud.net/discord">my Discord</a>! ^^
-
 <br><br>
 **May 1.8.9 survive!**
