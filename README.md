@@ -1,8 +1,7 @@
-# MavenMCP 1.8.9
+# MCP-1.8.9-Apple-Silicon
 
 ### About
-Maven MCP 1.8.9 is an updated version of MCP. It uses Maven, has a clean code structure, supports Linux and version control in your projects!
-
+MCP-1.8.9-Apple-Silicon is a forked version of <a href="https://github.com/Marcelektro/MavenMCP-1.8.9">Marcelektro/MavenMCP-1.8.9</a> to run on Apple Silicon Macs.
 ### About the structure
 The code is split into two groups: Resources (assets, graphics, shaders etc.) and code.<br>
 Libraries are loaded from Maven.
@@ -10,7 +9,7 @@ Libraries are loaded from Maven.
 ### Setting up workspace
 1. Clone the repository
 2. Let it setup and index (just wait)
-4. Specify project SDK to **Java 8** It might not work with other versions of JDK
+4. Specify project SDK to **ARM64 Java 8** x86_64 builds of java won't work.
 5. Once it indexes, the project should be ready to go! :)
 
 ### Building
